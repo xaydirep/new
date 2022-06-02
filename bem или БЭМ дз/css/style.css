@@ -337,6 +337,9 @@ body {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
+.portfolio__elements_img {
+  max-width: 100%;
+}
 .portfolio__box {
   margin: 0 0 10px 0;
   padding: 0 5.5px;

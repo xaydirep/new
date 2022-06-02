@@ -154,6 +154,7 @@ body {
 	}
 }
 
+
 .title {
 	font-size: 34.2px;
 	font-weight: 700;
@@ -269,6 +270,9 @@ body {
 		padding: 0 -5.5px;
 		display: flex;
 		flex-wrap: wrap;
+		&_img{
+			max-width: 100%;
+		}
 	}
 
 	&__box {
